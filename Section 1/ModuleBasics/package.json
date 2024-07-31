@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "suggestions": "^1.7.1"
+  }
+}
